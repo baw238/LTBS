@@ -159,7 +159,7 @@ LAB TEST BOOKING SYSTEM
 - D.G.C Keshara [GWU/HICT/2022/29]
 - W.H.H.P Hettiarachchi [GWU/HICT/2022/04]
 - K.S Prasad [GWU/HICT/2022/02]
-- W.M.B.D Wijethunga [GWU/HICT/2022/67]
+- w.m.b.d.wijethunga [gwu/hict/2022/67]
 
 ### Project Timeline
 
